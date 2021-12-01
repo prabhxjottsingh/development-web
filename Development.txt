@@ -1,0 +1,36 @@
+HTML
+https://www.youtube.com/watch?v=pQN-pnXPaVg&t=8s&ab_channel=freeCodeCamp.org
+
+CSS
+https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=130s&ab_channel=freeCodeCamp.org
+https://www.youtube.com/watch?v=zGiirUiWslI&t=1s&ab_channel=KevinPowell
+https://www.youtube.com/watch?v=xoRbkm8XgfQ&t=1s&ab_channel=KevinPowell
+https://www.youtube.com/watch?v=djbtPnNmc0I&t=589s&ab_channel=KevinPowell
+
+SASS
+https://www.youtube.com/watch?v=Zz6eOVaaelI&t=1059s&ab_channel=DevEd
+
+JS
+https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg (From 46 - 62 )
+https://javascript30.com/
+
+jQuery
+https://www.youtube.com/watch?v=HgvIox6ehkM&t=3s&ab_channel=edureka%21
+
+TypeScript 
+https://www.youtube.com/watch?v=WBPrJSw7yQA&ab_channel=Codevolution
+
+PUG
+https://www.youtube.com/watch?v=kt3cEjjkCZA&t=274s&ab_channel=freeCodeCamp.org
+
+REACT JS
+https://reactforbeginners.com/
+
+REDUX
+https://learnredux.com/
+
+NODEJS and MONGODB
+https://learnnode.com/
+
+ES6
+https://es6.io/
