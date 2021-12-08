@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulating DOM</title>
+</head>
+<body>
+    DOM - Document Object Model => We can access whatever written in HTML format in the form of tree structure using JS.
+    <div id = main class="container">
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact Us</li>
+            <li>Services</li>
+            <li>More About Us</li>
+        </ul>
+    </div>
+    <div id = nav class="container">
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact Us</li>
+            <li>Services</li>
+            <li>More About Us</li>
+        </ul>
+    </div>
+</body>
+<script>
+    let main = document.getElementById('main');
+    console.log(main);
+    let nav = document.getElementById('nav');
+    console.log(nav);
+
+    //document.getElementById
+    //document.getElementByClass
+    //document.querySelector
+   
+</script>
+</html>
