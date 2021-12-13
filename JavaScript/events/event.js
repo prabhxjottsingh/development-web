@@ -1,6 +1,6 @@
 let para = document.getElementById("para");
 
-    para.addEventListener('mouseover', function run(){
+    para.addEventListener('mouseout', function run(){
         alert('Mouse is insiding the para');
     });
 
