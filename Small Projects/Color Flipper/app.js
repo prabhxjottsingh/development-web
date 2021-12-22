@@ -5,12 +5,12 @@ const color = document.querySelector(".color");
 
 
 btn.addEventListener("click", function(){
-    const randomNumber = 2;           //get Random number between 0-3 colors[3]
-    console.log(randomNumber);
-    document.body.style.backgroundColor = colors[randomNumber]
-    color.textContent = color[randomNumber];
+    const randomNumber = getRandomNumber();           //get Random number between 0-3 colors[3]
+    document.getElementById("color").innerHTML = colors[randomNumber];
+    console.log(colors[randomNumber]);
+    document.body.style.backgroundColor = colors[randomNumber];
 });
 
 function getRandomNumber(){
-    return Math.random() * colors.length;
+    return Math.floor(Math.random() * colors.length);
 }
